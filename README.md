@@ -13,3 +13,9 @@ We may cover some of these during the week, and we encourage you to incorporate 
 
 * **Front-end Framework.** Use either Twitter Bootstrap or Foundation to kick start your front-end.
 * **Web Scraping.** Check out Nokogiri.
+
+## dev
+
+A user has many lists
+
+A list has many repos
